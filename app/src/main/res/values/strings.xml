@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PPOlab3</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Введите логин:</string>
+    <string name="pasword">Введите пароль:</string>
+    <string name="enter">Enter</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="a">A</string>
+    <string name="time">Время:</string>
+    <string name="_0">0</string>
+    <string name="save_field">Сохранить</string>
+    <string name="clear_field">Очистить</string>
+    <string name="big">Большой</string>
+    <string name="medium">Средний</string>
+    <string name="small">Маленький</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="wait_for_second_player">Ожидайте второго игрока</string>
+    <string name="enemy">Противник:</string>
+    <string name="create_nick">Придумайте ваш никнейм</string>
+    <string name="enter_your_email">Введите адрес вашей электронной почты</string>
+    <string name="create_password">Придумайте пароль</string>
+</resources>

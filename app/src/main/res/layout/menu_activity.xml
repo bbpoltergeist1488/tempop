@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="9"
+    android:orientation="horizontal">
+    <Button
+        android:id="@+id/createBtn"
+        android:text="Создать комнату"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </Button>
+    <Button
+        android:id="@+id/connectBtn"
+        android:text="Присоединиться к  комнате"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </Button>
+</LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2">
+<EditText
+    android:id="@+id/lobbyEdit"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+</EditText>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="9">
+        <Button
+            android:id="@+id/profileBtn"
+            android:text="Профиль"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </Button>
+        <Button
+            android:id="@+id/exitBtn"
+            android:text="Выйти из аккаунта"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </Button>
+    </LinearLayout>
+</LinearLayout>
